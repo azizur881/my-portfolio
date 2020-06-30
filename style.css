@@ -1,0 +1,25 @@
+body{
+    font-family: 'Lobster', cursive;
+}
+
+h1{
+    font-size:42px;
+    font-family: 'Lobster', cursive !important;
+
+    
+}
+.high-light{
+    color:rgb(32, 32, 209);
+}
+.part1{
+    width: 40%;
+   float:left;
+   margin-left:5%;
+   padding-left:2%;
+
+}
+.part1 img{
+    width: 550px;
+    height:500px;
+
+}
