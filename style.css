@@ -1,5 +1,7 @@
 body{
-    font-family: 'Lobster', cursive;
+    font-family: 'Roboto', sans-serif;
+    padding:0px;
+    margin:0px;
 }
 
 h1{
@@ -22,4 +24,34 @@ h1{
     width: 550px;
     height:500px;
 
+}
+.banner1{
+    height:500px;
+    background-image:url(/images/top-banner.png);
+    background-repeat:no-repeat;
+
+
+}
+p{
+    line-height: 30px;
+}
+.link-btn{  
+    text-decoration: none;
+    font-weight:700;
+  background-image:linear-gradient(rgb(90, 161, 228),blue );
+    padding:10px 20px;
+    border-radius: 20px;
+    margin-left:40px;
+    color:white;
+    position:absolute;
+    bottom:10px;
+    left:210px;
+
+}
+.text-align{
+    width:400px;
+    text-align: justify ;
+    background-image: linear-gradient( orange ,tomato);
+    padding:2%;
+    border-radius: 10px;
 }
