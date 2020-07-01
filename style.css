@@ -55,3 +55,27 @@ p{
     padding:2%;
     border-radius: 10px;
 }
+
+
+.part2{
+    width: 40%;
+   float:right;
+   margin-left:5%;
+   padding-left:2%;
+
+}
+.part2 img{
+    width: 550px;
+    height:500px;
+    position: relative;
+    top:100px;
+    right:50px;
+}
+.text-align2{
+    width:400px;
+    text-align: justify ;
+    background-image: linear-gradient(white ,blue);
+    padding:2%;
+    border-radius: 10px;
+
+}
